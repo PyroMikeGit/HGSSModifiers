@@ -8,7 +8,7 @@ Modified version of the [IronMON HGSS Patch (V0.2.2a)](https://github.com/PyroMi
 
 Speak to any overworld Quagsire in the Pokemon Center or Professor Elm's Lab to enable these run modifiers.
 
-![image](https://github.com/PyroMikeGit/HGSSMODIFIERS/assets/109924208/0af04b9d-527b-4953-947a-aebf90059668)
+![image](https://github.com/PyroMikeGit/HGSSModifiers/assets/109924208/0af04b9d-527b-4953-947a-aebf90059668)
 
 I will be updating this patch later on if I find other stuff that I want to add so feel free to suggest some fixes/features you want to make in the [IronMON Discord Server](https://discord.gg/Z5aruYafq4).
 
